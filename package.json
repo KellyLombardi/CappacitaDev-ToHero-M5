@@ -1,0 +1,29 @@
+{
+  "name": "cappacitadev-tohero-m5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KellyLombardi/cappacitadev-tohero-m5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KellyLombardi/cappacitadev-tohero-m5/issues"
+  },
+  "homepage": "https://github.com/KellyLombardi/cappacitadev-tohero-m5#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.11",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
